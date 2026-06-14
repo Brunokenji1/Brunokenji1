@@ -70,7 +70,7 @@ class BrunoKenji:
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Brunokenji1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F1219&title_color=4A90E2&icon_color=4A90E2" alt="Estatísticas"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunokenji1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F1219&title_color=4A90E2" alt="Linguagens"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunokenji1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F1219&title_color=4A90E2&hide=mdx,html,css" alt="Linguagens"/>
 </div>
 
 <div align="center">
