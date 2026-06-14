@@ -78,14 +78,13 @@ class BrunoKenji:
 </div>
 
 ### 📜 Certificados
-
-Faço cursos pela Alura para me aprofundar em back-end, Java, Python e outras áreas. Você pode ver meus certificados de duas formas:
+Reúno meus certificados de cursos e formações (Alura, Cisco, Google e outros) em um repositório, onde qualquer pessoa pode ver sem precisar de login:
 
 <p align="center">
-  <a href="https://cursos.alura.com.br/user/brunokenjiokamoto" target="_blank">
-    <img src="https://img.shields.io/badge/Perfil_Alura-Ver_cursos-4A90E2?style=for-the-badge&logo=alura&logoColor=white" alt="Perfil Alura">
-  </a>
   <a href="https://github.com/Brunokenji1/Certificate-of-Achievements" target="_blank">
-    <img src="https://img.shields.io/badge/Repositório-Ver_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de certificados">
+    <img src="https://img.shields.io/badge/Ver_todos_os_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de certificados">
+  </a>
+  <a href="https://cursos.alura.com.br/user/brunokenjiokamoto" target="_blank">
+    <img src="https://img.shields.io/badge/Perfil_Alura-4A90E2?style=for-the-badge&logo=alura&logoColor=white" alt="Perfil Alura">
   </a>
 </p>
