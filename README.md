@@ -76,3 +76,16 @@ class BrunoKenji:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunokenji1&theme=tokyonight&hide_border=true&background=0F1219&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="Sequência"/>
 </div>
+
+### 📜 Certificados
+
+Faço cursos pela Alura para me aprofundar em back-end, Java, Python e outras áreas. Você pode ver meus certificados de duas formas:
+
+<p align="center">
+  <a href="https://cursos.alura.com.br/user/brunokenjiokamoto" target="_blank">
+    <img src="https://img.shields.io/badge/Perfil_Alura-Ver_cursos-4A90E2?style=for-the-badge&logo=alura&logoColor=white" alt="Perfil Alura">
+  </a>
+  <a href="https://github.com/Brunokenji1/Certificate-of-Achievements" target="_blank">
+    <img src="https://img.shields.io/badge/Repositório-Ver_certificados-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório de certificados">
+  </a>
+</p>
