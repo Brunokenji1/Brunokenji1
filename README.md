@@ -32,7 +32,6 @@ class BrunoKenji:
 - 🤖 Gosto de **IA, visão computacional, banco de dados e cibersegurança**
 - 🌱 Hoje estou me aprofundando em **Spring Boot** e na carreira back-end Java
 - 🏆 Treino **programação competitiva** em C++ nas horas vagas
-- 💬 Curto trocar ideia sobre Java, APIs e o meu projeto FitShare
 
 ---
 
