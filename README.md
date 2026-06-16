@@ -31,7 +31,6 @@ class BrunoKenji:
 - 🎯 Foco em **desenvolvimento back-end** com Java e Python
 - 🤖 Gosto de **IA, visão computacional, banco de dados e cibersegurança**
 - 🌱 Hoje estou me aprofundando em **Spring Boot** e na carreira back-end Java
-- 🏆 Treino **programação competitiva** em C++ nas horas vagas
 
 ---
 
