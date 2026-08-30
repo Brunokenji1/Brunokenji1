@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Bruno Kenji 👾</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas e estagiário de Qualidade de Software.<br>
-  Focado em desenvolvimento back-end com Java, Spring Boot e Python.
+  Estudante de Análise e Desenvolvimento de Sistemas e estagiário de Quality Assurance.<br>
+  Interessado em desenvolvimento de software, inteligência artificial e cibersegurança.
 </p>
 
 <p align="center">
@@ -21,16 +21,16 @@
 
 ### Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Fatec Cruzeiro
-- 🧪 Estagiário de **Quality Assurance**, com experiência em testes funcionais e de regressão em sistemas de ponto de venda
-- 💻 Direcionando meus estudos para **back-end com Java e Spring Boot**
-- 🤖 Interessado em inteligência artificial, visão computacional, banco de dados e cibersegurança
-- 🚀 Buscando evoluir na área de desenvolvimento de software
+Atuo como estagiário de QA, realizando testes funcionais e de regressão em sistemas de ponto de venda. Também investigo inconsistências, registro defeitos e valido correções.
+
+Na faculdade, desenvolvi o FitShare, um protótipo de aplicativo voltado à saúde e à acessibilidade de pessoas idosas, utilizando C# e .NET MAUI.
+
+No momento, estudo JavaScript como preparação para o meu Trabalho de Graduação, que deverá utilizar TypeScript, NestJS e React Native. Meu objetivo é seguir carreira em desenvolvimento de software. Além disso, tenho bastante interesse em inteligência artificial e cibersegurança.
 
 ### Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,cs,cpp,postgres,docker,git,linux&perline=10" alt="Java, Spring, Python, JavaScript, C#, C++, PostgreSQL, Docker, Git e Linux">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,cs,dotnet,cpp,postgres,docker,git,linux&perline=11" alt="Java, Spring, Python, JavaScript, C#, .NET, C++, PostgreSQL, Docker, Git e Linux">
 </p>
 
 ### Projetos em destaque
